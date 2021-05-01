@@ -1,4 +1,4 @@
-//Steven Ubert
+//"Name Goes Here!"
 //09-30-2020
 /*The temperature of earth at a depth
  CSCI 121 Computer Science I */
