@@ -1,4 +1,4 @@
-//Steven Ubert
+//"Name Goes Here!"
 //09-12-2020
 /*Simple game of "23"
  CSCI 121 Computer Science I */
