@@ -1,4 +1,4 @@
-/*Steven Ubert
+/*"Name Goes Here!"
 11-29-2020
 number counting and recursive function
  CSCI 121 Computer Science I */
