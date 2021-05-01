@@ -1,4 +1,4 @@
-//Steven Ubert
+//"Name Goes Here!"
 //09-01-2020
 /*Harris-Benedict calculator
  CSCI 121 Computer Science I */
