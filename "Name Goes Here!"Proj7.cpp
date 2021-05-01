@@ -1,4 +1,4 @@
-/*Steven Ubert
+/*"Name Goes Here!"
 11-06-2020
 Array and Menu function 
  CSCI 121 Computer Science I */
