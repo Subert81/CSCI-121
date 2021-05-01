@@ -1,4 +1,4 @@
-/*Steven Ubert
+/*"Name Goes Here!"
 11-17-2020
 Scores and Sentences
  CSCI 121 Computer Science I */
